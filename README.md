@@ -1,6 +1,6 @@
-# Teste para repositório de documentação utilizando MkDocs
+# Repositório de documentação pessoal utilizando MkDocs
 
-Projeto de teste utilizando [MkDocs](https://www.mkdocs.org/) para criação de documentação estática com arquivos Markdown.
+Repositório destinado a estudos pessoais, utilizando [MkDocs](https://www.mkdocs.org/) para criação de documentação estática com arquivos Markdown.
 
 ## Requisitos
 
